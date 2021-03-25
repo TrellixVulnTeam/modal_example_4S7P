@@ -1,0 +1,22 @@
+{
+	"name": "modal",
+	"version": "1.0.0",
+	"description": "A simple modal window example.",
+	"main": "index.js",
+	"scripts": {
+		"compile:sass": "node-sass sass/main.scss css/style.css -w"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/alfredoPark-48/modal_example.git"
+	},
+	"author": "Alfredo Jeonghyun Park",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/alfredoPark-48/modal_example/issues"
+	},
+	"homepage": "https://github.com/alfredoPark-48/modal_example#readme",
+	"devDependencies": {
+		"node-sass": "^5.0.0"
+	}
+}
